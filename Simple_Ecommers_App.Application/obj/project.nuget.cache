@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "i3yP6GkGnzTT9WvwetSqNCFwXy+NsVGPJ1lbHteYl8l0oGbfSweGPmX2cXBsAJNWJzx0fDqQtJbK/6P9PrZtYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abdulazeez.adams\\source\\repos\\Simple_Ecommers_App\\Simple_Ecommers_App.Application\\Simple_Ecommers_App.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdulazeez.adams\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\abdulazeez.adams\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\abdulazeez.adams\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\abdulazeez.adams\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

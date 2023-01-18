@@ -1,0 +1,13 @@
+C:\Users\abdulazeez.adams\source\repos\Simple_Ecommers_App\Simple_Ecommers_App.Application\bin\Debug\netcoreapp3.1\Simple_Ecommers_App.Application.deps.json
+C:\Users\abdulazeez.adams\source\repos\Simple_Ecommers_App\Simple_Ecommers_App.Application\bin\Debug\netcoreapp3.1\Simple_Ecommers_App.Application.dll
+C:\Users\abdulazeez.adams\source\repos\Simple_Ecommers_App\Simple_Ecommers_App.Application\bin\Debug\netcoreapp3.1\Simple_Ecommers_App.Application.pdb
+C:\Users\abdulazeez.adams\source\repos\Simple_Ecommers_App\Simple_Ecommers_App.Application\bin\Debug\netcoreapp3.1\Simple_Ecommers_App.Domain.dll
+C:\Users\abdulazeez.adams\source\repos\Simple_Ecommers_App\Simple_Ecommers_App.Application\bin\Debug\netcoreapp3.1\Simple_Ecommers_App.Domain.pdb
+C:\Users\abdulazeez.adams\source\repos\Simple_Ecommers_App\Simple_Ecommers_App.Application\obj\Debug\netcoreapp3.1\Simple_Ecommers_App.Application.csproj.AssemblyReference.cache
+C:\Users\abdulazeez.adams\source\repos\Simple_Ecommers_App\Simple_Ecommers_App.Application\obj\Debug\netcoreapp3.1\Simple_Ecommers_App.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdulazeez.adams\source\repos\Simple_Ecommers_App\Simple_Ecommers_App.Application\obj\Debug\netcoreapp3.1\Simple_Ecommers_App.Application.AssemblyInfoInputs.cache
+C:\Users\abdulazeez.adams\source\repos\Simple_Ecommers_App\Simple_Ecommers_App.Application\obj\Debug\netcoreapp3.1\Simple_Ecommers_App.Application.AssemblyInfo.cs
+C:\Users\abdulazeez.adams\source\repos\Simple_Ecommers_App\Simple_Ecommers_App.Application\obj\Debug\netcoreapp3.1\Simple_Ecommers_App.Application.csproj.CoreCompileInputs.cache
+C:\Users\abdulazeez.adams\source\repos\Simple_Ecommers_App\Simple_Ecommers_App.Application\obj\Debug\netcoreapp3.1\Simple_Ecommers_App.Application.csproj.CopyComplete
+C:\Users\abdulazeez.adams\source\repos\Simple_Ecommers_App\Simple_Ecommers_App.Application\obj\Debug\netcoreapp3.1\Simple_Ecommers_App.Application.dll
+C:\Users\abdulazeez.adams\source\repos\Simple_Ecommers_App\Simple_Ecommers_App.Application\obj\Debug\netcoreapp3.1\Simple_Ecommers_App.Application.pdb

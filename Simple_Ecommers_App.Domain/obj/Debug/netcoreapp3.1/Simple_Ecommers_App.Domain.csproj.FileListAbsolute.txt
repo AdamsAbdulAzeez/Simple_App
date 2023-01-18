@@ -1,0 +1,10 @@
+C:\Users\abdulazeez.adams\source\repos\Simple_Ecommers_App\Simple_Ecommers_App.Domain\bin\Debug\netcoreapp3.1\Simple_Ecommers_App.Domain.deps.json
+C:\Users\abdulazeez.adams\source\repos\Simple_Ecommers_App\Simple_Ecommers_App.Domain\bin\Debug\netcoreapp3.1\Simple_Ecommers_App.Domain.dll
+C:\Users\abdulazeez.adams\source\repos\Simple_Ecommers_App\Simple_Ecommers_App.Domain\bin\Debug\netcoreapp3.1\Simple_Ecommers_App.Domain.pdb
+C:\Users\abdulazeez.adams\source\repos\Simple_Ecommers_App\Simple_Ecommers_App.Domain\obj\Debug\netcoreapp3.1\Simple_Ecommers_App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdulazeez.adams\source\repos\Simple_Ecommers_App\Simple_Ecommers_App.Domain\obj\Debug\netcoreapp3.1\Simple_Ecommers_App.Domain.AssemblyInfoInputs.cache
+C:\Users\abdulazeez.adams\source\repos\Simple_Ecommers_App\Simple_Ecommers_App.Domain\obj\Debug\netcoreapp3.1\Simple_Ecommers_App.Domain.AssemblyInfo.cs
+C:\Users\abdulazeez.adams\source\repos\Simple_Ecommers_App\Simple_Ecommers_App.Domain\obj\Debug\netcoreapp3.1\Simple_Ecommers_App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\abdulazeez.adams\source\repos\Simple_Ecommers_App\Simple_Ecommers_App.Domain\obj\Debug\netcoreapp3.1\Simple_Ecommers_App.Domain.dll
+C:\Users\abdulazeez.adams\source\repos\Simple_Ecommers_App\Simple_Ecommers_App.Domain\obj\Debug\netcoreapp3.1\Simple_Ecommers_App.Domain.pdb
+C:\Users\abdulazeez.adams\source\repos\Simple_Ecommers_App\Simple_Ecommers_App.Domain\obj\Debug\netcoreapp3.1\Simple_Ecommers_App.Domain.csproj.AssemblyReference.cache
