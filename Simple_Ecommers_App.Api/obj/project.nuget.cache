@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Oazoqll8VgAuB+3Pd3YEjjpFfDUX2m2+CXcfVfKgKUBcjXmOa7veYmRi6x78N3/9Pm5pe+5bs/At/CR2h6zrCQ==",
+  "dgSpecHash": "4YLw6ebm2MZce1yYuvsX6IQlCHAFq8fPFOlD8U5q+ZaZzmBHzqNuNOIJwCLQFGtE9/3RWExqjfMM8D625kTw4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abdulazeez.adams\\source\\repos\\Simple_Ecommers_App\\Simple_Ecommers_App.Api\\Simple_Ecommers_App.Api.csproj",
+  "projectFilePath": "C:\\Users\\abdulazeez.adams\\Desktop\\Training\\Docker\\Simple_App\\Simple_Ecommers_App.Api\\Simple_Ecommers_App.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abdulazeez.adams\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\abdulazeez.adams\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdulazeez.adams\\source\\repos\\Simple_Ecommers_App\\Simple_Ecommers_App.Domain\\Simple_Ecommers_App.Domain.csproj": {}
+    "C:\\Users\\abdulazeez.adams\\Desktop\\Training\\Docker\\Simple_App\\Simple_Ecommers_App.Domain\\Simple_Ecommers_App.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdulazeez.adams\\source\\repos\\Simple_Ecommers_App\\Simple_Ecommers_App.Domain\\Simple_Ecommers_App.Domain.csproj": {
+    "C:\\Users\\abdulazeez.adams\\Desktop\\Training\\Docker\\Simple_App\\Simple_Ecommers_App.Domain\\Simple_Ecommers_App.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdulazeez.adams\\source\\repos\\Simple_Ecommers_App\\Simple_Ecommers_App.Domain\\Simple_Ecommers_App.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\abdulazeez.adams\\Desktop\\Training\\Docker\\Simple_App\\Simple_Ecommers_App.Domain\\Simple_Ecommers_App.Domain.csproj",
         "projectName": "Simple_Ecommers_App.Domain",
-        "projectPath": "C:\\Users\\abdulazeez.adams\\source\\repos\\Simple_Ecommers_App\\Simple_Ecommers_App.Domain\\Simple_Ecommers_App.Domain.csproj",
+        "projectPath": "C:\\Users\\abdulazeez.adams\\Desktop\\Training\\Docker\\Simple_App\\Simple_Ecommers_App.Domain\\Simple_Ecommers_App.Domain.csproj",
         "packagesPath": "C:\\Users\\abdulazeez.adams\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdulazeez.adams\\source\\repos\\Simple_Ecommers_App\\Simple_Ecommers_App.Domain\\obj\\",
+        "outputPath": "C:\\Users\\abdulazeez.adams\\Desktop\\Training\\Docker\\Simple_App\\Simple_Ecommers_App.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abdulazeez.adams\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }

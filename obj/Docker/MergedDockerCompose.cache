@@ -1,0 +1,50 @@
+name: dockercompose4241600021893174131
+services:
+  simple_ecommers_app.api:
+    build:
+      context: C:\Users\abdulazeez.adams\Desktop\Training\Docker\Simple_App
+      dockerfile: Simple_Ecommers_App.Api/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTPS_PORT: '"5001"'
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: simpleecommersappapi
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      published: "5000"
+      protocol: tcp
+    - mode: ingress
+      target: 443
+      published: "5001"
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: C:\Users\abdulazeez.adams\AppData\Roaming/Microsoft/UserSecrets
+      target: /root/.microsoft/usersecrets
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\abdulazeez.adams\AppData\Roaming/ASP.NET/Https
+      target: /root/.aspnet/https
+      read_only: true
+      bind:
+        create_host_path: true
+  sqldb:
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: Mydear57$$
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 1433
+      published: "1433"
+      protocol: tcp
+networks:
+  default:
+    name: dockercompose4241600021893174131_default

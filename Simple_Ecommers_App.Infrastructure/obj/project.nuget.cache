@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zxadqIQPTbuvJtYWtOTJ+a8tXfN/H2e1Jt9Egyu0g5cqhQMUXcDfcJdxcF8KkwWgMaBKsfqBuLqmMp4lqizjIQ==",
+  "dgSpecHash": "HwzG2RX6vGOrkkCd+rH6ufBO9e8nVXfOUTxLqEtZalY+v/uDoSzh2aOWJ6BBU7cJwhIlL0laC1arJuXpFaWkxw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abdulazeez.adams\\source\\repos\\Simple_Ecommers_App\\Simple_Ecommers_App.Infrastructure\\Simple_Ecommers_App.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\abdulazeez.adams\\Desktop\\Training\\Docker\\Simple_App\\Simple_Ecommers_App.Infrastructure\\Simple_Ecommers_App.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abdulazeez.adams\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\abdulazeez.adams\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

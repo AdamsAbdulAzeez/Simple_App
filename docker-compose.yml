@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  simple_ecommers_app.api:
+    image: ${DOCKER_REGISTRY-}simpleecommersappapi
+    build:
+      context: .
+      dockerfile: Simple_Ecommers_App.Api/Dockerfile
+  sqldb:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+        - SA_PASSWORD=Mydear57$
+        - ACCEPT_EULA=Y
+    ports:
+        - "1433:1433"

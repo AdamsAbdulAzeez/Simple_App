@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i3yP6GkGnzTT9WvwetSqNCFwXy+NsVGPJ1lbHteYl8l0oGbfSweGPmX2cXBsAJNWJzx0fDqQtJbK/6P9PrZtYw==",
+  "dgSpecHash": "gk2rHM/V8nS/KFIf4E8uA+e1nErEhKP1HDZJ47SVuJ8+ii5XZ1+op4FK34jHGZE9hLpuzM0DpHwcZzfdMQU2Fw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abdulazeez.adams\\source\\repos\\Simple_Ecommers_App\\Simple_Ecommers_App.Application\\Simple_Ecommers_App.Application.csproj",
+  "projectFilePath": "C:\\Users\\abdulazeez.adams\\Desktop\\Training\\Docker\\Simple_App\\Simple_Ecommers_App.Application\\Simple_Ecommers_App.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abdulazeez.adams\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\abdulazeez.adams\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
